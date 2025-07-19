@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Filament Demo App
 
 A demo application to illustrate how Filament Admin works.
@@ -100,3 +101,6 @@ You're ready to go! Visit the url in your browser, and login with:
 #### MorphToMany
 - BrandResource\RelationManagers\AddressRelationManager
 - CustomerResource\RelationManagers\AddressRelationManager
+=======
+# MISE_EN_SERVICE
+>>>>>>> 8e2d2e44cd8cc56c6c613c46ecf05e8d327d21c2
