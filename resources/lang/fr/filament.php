@@ -1,0 +1,20 @@
+<?php
+return [
+    'dashboard' => 'Tableau de bord ss',
+    'users' => 'Utilisateurs',
+    'settings' => 'Paramètres',
+    'name' => 'Nom Catégorie',
+    'Orders' => 'Demandes reçues sss',
+    'open_orders' => 'Commandes ouvertes',
+    'average_price' => 'Prix moyen',
+    'Orders_stat_user' => 'Saisir Une Demande',
+    'Orders_stat' => 'Demandes reçues',
+    'new_customers' => 'Nouveaus Clients',
+    'new_orders' => 'Nouveaus Demandes',
+    'Revenue' => 'Revenu',
+    'Orders_per_month' => 'Demandes par mois',
+    'Total_Services' => 'Services totaux',
+    'Service_Inventory' => 'Services I',
+    'Average_price' => 'Prix Moyenne',
+    'zzzzzz' => 'sjdnvjlzbvl',
+];
